@@ -5,8 +5,7 @@ import time
 from bs4 import BeautifulSoup
 from datetime import datetime, date
 
-# token = '1212598847:AAGeXxqtliVIM28IaluDH-ohrXIF2tGnGjg'
-token = '1251055643:AAG8-sdJbarH15vOgHOqzWSVBmDicRMRTSc'
+token = ''
 bot = telebot.TeleBot(token)
 
 global days
